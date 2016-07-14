@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">lcateampicker</string>
+    <string name="DOMAIN_PACKAGE_NAME">br.com.madeck.lcateampicker.model</string>
+</resources>
